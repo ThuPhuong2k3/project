@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_cthdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_cthdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364C8CF0-C0C1-428A-8C9B-5567DBEE6111}|DAL\\DAL.csproj|d:\\thu ph\u01B0\u01A1ng\\\u0111\u1ED3 \u00E1n\\qlbts\\qlbts\\dal\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364C8CF0-C0C1-428A-8C9B-5567DBEE6111}|DAL\\DAL.csproj|solutionrelative:dal\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_nguyenlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\gui\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D055FC9-B8F3-44A0-A001-575DFAA0C646}|GUI\\GUI.csproj|solutionrelative:gui\\gui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GUI_HoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_HoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_HoaDon.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_HoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_HoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:03.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUI_Menu.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Menu.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_Menu.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:03.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI_CTHDB.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_CTHDB.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_CTHDB.cs",
+              "ToolTip": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_CTHDB.cs [Design]",
+              "RelativeToolTip": "GUI\\GUI_CTHDB.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:29:03.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GUI_Login.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Login.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_Login.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\DAL\\DBConnect.cs",
+              "RelativeDocumentMoniker": "DAL\\DBConnect.cs",
+              "ToolTip": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\DAL\\DBConnect.cs",
+              "RelativeToolTip": "DAL\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T02:29:05.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GUI_NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_NhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_NhanVien.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_NhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:05.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GUI_NguyenLieu.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_NguyenLieu.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_NguyenLieu.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_NguyenLieu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_NguyenLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:05.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUI_TimKiem.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_TimKiem.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_TimKiem.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_TimKiem.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_TimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:05.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUI_KhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_KhachHang.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_KhachHang.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_KhachHang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_KhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:05.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GUI_HangHoa.cs [Design]",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_HangHoa.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_HangHoa.cs",
+              "ToolTip": "D:\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_HangHoa.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Wosk space\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_HangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:05.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GUI_Login.cs",
+              "DocumentMoniker": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Login.cs",
+              "RelativeDocumentMoniker": "GUI\\GUI_Login.cs",
+              "ToolTip": "D:\\thu ph\u01B0\u01A1ng\\\u0110\u1ED3 \u00E1n\\QLBTS\\QLBTS\\GUI\\GUI_Login.cs",
+              "RelativeToolTip": "GUI\\GUI_Login.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-18T02:29:05.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

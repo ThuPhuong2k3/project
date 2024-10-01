@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\QLBTS\BUS\bin\Debug\BUS.dll
+C:\Users\User\source\repos\QLBTS\BUS\bin\Debug\BUS.pdb
+C:\Users\User\source\repos\QLBTS\BUS\bin\Debug\DAL.dll
+C:\Users\User\source\repos\QLBTS\BUS\bin\Debug\DTO.dll
+C:\Users\User\source\repos\QLBTS\BUS\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\QLBTS\BUS\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\QLBTS\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QLBTS\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QLBTS\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\User\source\repos\QLBTS\BUS\obj\Debug\BUS.dll
+C:\Users\User\source\repos\QLBTS\BUS\obj\Debug\BUS.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\BUS.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\BUS.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DAL.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DTO.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DAL.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DTO.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\BUS.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\BUS.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DAL.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DTO.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DAL.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\bin\Debug\DTO.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\QLBTS\DTO\bin\Debug\DTO.dll
+C:\Users\User\source\repos\QLBTS\DTO\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\QLBTS\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QLBTS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QLBTS\DTO\obj\Debug\DTO.dll
+C:\Users\User\source\repos\QLBTS\DTO\obj\Debug\DTO.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DTO\bin\Debug\DTO.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DTO\bin\Debug\DTO.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\DTO\bin\Debug\DTO.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\DTO\bin\Debug\DTO.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\thu phương\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\thu phương\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\DTO\obj\Debug\DTO.pdb

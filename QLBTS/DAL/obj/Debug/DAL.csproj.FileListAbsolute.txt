@@ -1,0 +1,27 @@
+C:\Users\User\source\repos\QLBTS\DAL\bin\Debug\DAL.dll
+C:\Users\User\source\repos\QLBTS\DAL\bin\Debug\DAL.pdb
+C:\Users\User\source\repos\QLBTS\DAL\bin\Debug\DTO.dll
+C:\Users\User\source\repos\QLBTS\DAL\bin\Debug\DTO.pdb
+C:\Users\User\source\repos\QLBTS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\QLBTS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\QLBTS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\source\repos\QLBTS\DAL\obj\Debug\DAL.dll
+C:\Users\User\source\repos\QLBTS\DAL\obj\Debug\DAL.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DAL.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DAL.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DTO.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DTO.pdb
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.dll
+D:\Wosk space\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DAL.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DAL.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DTO.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\bin\Debug\DTO.pdb
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.dll
+D:\thu phương\Đồ án\QLBTS\QLBTS\DAL\obj\Debug\DAL.pdb
